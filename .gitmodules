@@ -1,0 +1,9 @@
+[submodule "api-gateway-svc"]
+	path = api-gateway-svc
+	url = https://github.com/alihamzhei/api-gateway-svc.git
+[submodule "todosvc"]
+	path = todosvc
+	url = https://github.com/alihamzhei/todosvc.git
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/alihamzhei/auth-service.git
